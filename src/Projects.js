@@ -57,22 +57,18 @@ export const Projects = () => {
           <div class="py-4" />
           <p className="graspBold">What is GRASP?</p>
           <p className="graspDesc">
-            GRASP is UBC Bionics' first attempt at the creation of a smart
-            prosthetic arm. Our current design of the arm features a variety of
-            functionalities including:
+            Some key features of the arm 
+            that we have developed are: <br />
           </p>
+
+          
           <p className="graspDesc">
-            <ul>
-              <li>Object recognition via an onboard camera </li>
-              <li>Various hand and finger grips </li>
-              <li>Integration with machine learning</li>
-              <li>
-                Incorporation fo an ergonomic design using a shoulder sling{" "}
-                <br />
-                and consolidate electrical components{" "}
-              </li>
-              <li>EMG signalling</li>
-            </ul>
+          <ul>
+                    <li>Creating a sensor to read muscle signals to drive the movement of the arm</li>
+                    <li>Driving the motion of the fingers through a series of motors and actuators</li>
+                    <li>Ensuring safe and reliable performance of the Li-po batteries</li>
+                    <li>Providing feedback to the user - either through haptic motions or tactical buttons</li>
+                </ul>
           </p>
         </div>
 
