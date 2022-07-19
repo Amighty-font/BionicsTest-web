@@ -7,7 +7,7 @@ import hand from './Photos/hand.png';
 
 export const Home = () => {
     return(
-        <div>
+        <Layout>
             <div class="row">
                 <div class="col">
                     <div class="py-5" />
@@ -61,6 +61,6 @@ export const Home = () => {
                     GRASP. For more details, view our FAQ section under the Join Us page!
                 </p>
             </ div>
-        </div>
+        </Layout>
     );
 }
