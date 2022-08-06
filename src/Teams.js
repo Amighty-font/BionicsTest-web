@@ -1,5 +1,3 @@
-import react from 'react';
-import { Layout } from './components/Layout'
 import './App.css';
 import VZhao from './Photos/Edited Headshots/VZhao.jpg';
 import JLee from './Photos/Edited Headshots/JLee.jpg';

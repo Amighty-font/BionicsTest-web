@@ -1,4 +1,4 @@
-import react from "react";
+
 import { Layout } from "./components/Layout";
 import ubcapplied from "./Photos/Gold/ubc-applied.png";
 import starfish from "./Photos/Silver/Starfish.png";

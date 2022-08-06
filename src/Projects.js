@@ -1,13 +1,8 @@
 import React from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./App.css";
-import pic1 from "./Photos/pic1.png";
-import pic2 from "./Photos/pic2.png";
-import graspPic1 from "./Photos/graspPic1.jpeg";
 import bionicHand from "./Photos/bionicHand.png";
-import nuanceControl from "./Photos/nuanceControl.png";
-import softMaterials from "./Photos/softMaterials.png";
-import costEffective from "./Photos/costEffective.png";
+
 
 import { Layout } from "./components/Layout";
 

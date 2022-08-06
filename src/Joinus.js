@@ -1,12 +1,5 @@
-import react from 'react';
-import { Layout } from './components/Layout'
 // import 'bootstrap/dist/css/bootstrap.min.css';
 import adminPhoto from './Photos/admin 1.png';
-import elecPhoto from './Photos/electrical 1.png';
-import mechPhoto from './Photos/mech 1.png';
-import analyticsPhoto from './Photos/analytics 1.png';
-import embeddedPhoto from './Photos/embedded 1.png';
-import background from './Photos/ranger-4df6c1b6.png'
 
 export const Joinus = () => {
     return(

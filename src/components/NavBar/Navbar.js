@@ -1,6 +1,6 @@
 import './Navbar.css';
 // import {useState} from 'react';
-import React, { useEffect, useState } from "react";
+import React from "react";
 import MobileNavigation from './MobileNavigation';
 import Navigation from './Navigation';
 

@@ -2,9 +2,7 @@ import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './Accordion.css';
 import {useState} from 'react';
-import { Layout } from "./components/Layout";
 import emailjs from 'emailjs-com'
-import { Container } from 'react-bootstrap';
 
 const keys = require('./keys')
 
