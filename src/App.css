@@ -288,6 +288,16 @@ img.teamimg {
   z-index: 1;
 }
 
+img.lead-img {
+  position: relative;
+  clip-path: circle();
+  width: 150px;
+  height: auto;
+  display: "block";
+  z-index: 1;
+  /* align-items:center; */
+}
+
 img.captain {
   position: relative;
   clip-path: circle();

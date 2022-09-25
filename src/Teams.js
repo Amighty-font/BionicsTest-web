@@ -47,10 +47,11 @@ export const Teams = () => {
                 <p class="italized text-center">TEAM CAPTAIN</p>
                 <div class="py-2" />
                 <p class="text-center lead">
-                    The electrical sub-team is responsible for developing the electrical components 
-                    into the prototype. Currently, they're working on EMG acquisition and battery 
-                    management systems. They're developing a PCB using Altium that integrates sensors, 
-                    motors and actuators, while using Ocilliscope for testing.
+                        UBC Bionics, since its inception, has been dedicated to advancing student knowledge in the field of bionics and creating opportunities for students to apply themselves and gain experience. We are currently working on two major projects: a bionic arm, GRASP, and a brain-computer interface, NERV. Our design team has created an incredible environment for us to work collaboratively alongside other students and industry, participate in competitions and continue to advance and apply our knowledge.
+                        I am a fourth-year Biomedical Engineering student specializing in cellular bioengineering and have been a part of the team since 2019. My duties on the team include project management, executive responsibilities and supporting the rest of the team with anything they need.
+
+                        Bionics is a promising area of research with the potential to positively influence an individual’s quality of life, which I believe motivates our team to work hard to bring our projects into reality. 
+                        I hope you’ll support or join us on our journey!
                 </p>
             </div>
             <div class="py-4" />
@@ -64,14 +65,14 @@ export const Teams = () => {
                         <p class="pad-0 text-center ">VIVIENNE ZHAO</p>
                         <p class="italized text-center">ADMIN LEAD</p>
                         <div class="py-5">
-                            <div class="container-sm">
+                            {/* <div class="container-sm">
                                 <p class="text-center">
                                     The electrical sub-team is responsible for developing the electrical components 
                                     into the prototype. Currently, they're working on EMG acquisition and battery 
                                     management systems. They're developing a PCB using Altium that integrates sensors, 
                                     motors and actuators, while using Ocilliscope for testing.
                                 </p>
-                            </div>
+                            </div> */}
                         </div>
                 </div>
                     <div class="col-sm">
@@ -102,14 +103,14 @@ export const Teams = () => {
                         <p class="pad-0 text-center">JAMES ROSS</p>
                         <p class="italized text-center">ADMIN LEAD</p>
                         <div class="py-5">
-                            <div class="container-sm">
+                            {/* <div class="container-sm">
                                 <p class="text-center">
                                     The electrical sub-team is responsible for developing the electrical components 
                                     into the prototype. Currently, they're working on EMG acquisition and battery 
                                     management systems. They're developing a PCB using Altium that integrates sensors, 
                                     motors and actuators, while using Ocilliscope for testing.
                                 </p>
-                            </div>
+                            </div> */}
                         </div>
                     </div>
                 </div>
@@ -154,7 +155,7 @@ export const Teams = () => {
                         </div>
                     </div>
                         <div class="py-5">
-                            <div class="container-sm">
+                            {/* <div class="container-sm">
                                 <p class="text-center">
                                 The electrical team focuses on developing and engineering the underlying infrastructure that spans from 
                                 actuating the intended motion of the pilot to making sure the battery delivers energy; and everything in between! In the past, 
@@ -164,7 +165,7 @@ export const Teams = () => {
                                    
 
                                 </p>
-                            </div>
+                            </div> */}
                         
                         </div>
                     </div>
@@ -209,19 +210,19 @@ export const Teams = () => {
                 <div class="py-2"/>
                 <div class="col-md-6">
                     <div class="py-5 "> 
-                        <img class="teamimg img-responsive center-block d-block mx-auto" alt='' src={NPoon} />
+                        <img class=" img-responsive center-block d-block mx-auto lead-img" alt='' src={NPoon} />
                         <div class="py-2" />
                         <p class="pad-0 text-center">NATHAN POON</p>
                         <p class="italized text-center">EMBEDDED LEAD</p>
                         <div class="py-5">
-                            <div class="container-sm">
+                            {/* <div class="container-sm">
                                 <p class="text-center">
                                     The electrical sub-team is responsible for developing the electrical components 
                                     into the prototype. Currently, they're working on EMG acquisition and battery 
                                     management systems. They're developing a PCB using Altium that integrates sensors, 
                                     motors and actuators, while using Ocilliscope for testing.
                                 </p>
-                            </div>
+                            </div> */}
                         
                         </div>
                     </div>
@@ -271,14 +272,14 @@ export const Teams = () => {
                         </div>
                     </div>
                     <div class="py-5" />
-                    <div class="container-sm">
+                    {/* <div class="container-sm">
                         <p class="text-center">
                             The electrical sub-team is responsible for developing the electrical components 
                             into the prototype. Currently, they're working on EMG acquisition and battery 
                             management systems. They're developing a PCB using Altium that integrates sensors, 
                             motors and actuators, while using Ocilliscope for testing.
                         </p>
-                    </div>
+                    </div> */}
                 </div>
                 
                 <div class="col-sm">
