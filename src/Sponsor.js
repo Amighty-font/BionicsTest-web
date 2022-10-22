@@ -1,8 +1,8 @@
 
 import { Layout } from "./components/Layout";
 import ubcapplied from "./Photos/Gold/ubc-applied.png";
-import starfish from "./Photos/Silver/Starfish.png";
 import digikey from "./Photos/Supporting/digikey.png";
+import starfish from "./Photos/Silver/Starfish.png";
 import ieee from "./Photos/Bronze/ieee.png";
 import bionicsnetworklogo from "./Photos/Gold/bionicsnetworklogo.png";
 import ece from "./Photos/Gold/ece.png";
